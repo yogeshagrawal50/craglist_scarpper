@@ -1,4 +1,4 @@
-# Jaipurcraglist_scarpper
+# Jaipur craigslist_scarpper
 
 
 A powerfull scrapper of https://jaipur.craigslist.org
